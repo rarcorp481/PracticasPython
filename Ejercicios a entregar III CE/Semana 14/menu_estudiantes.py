@@ -3,7 +3,7 @@ import getpass
 import pwinput
 #Se importa el módulo os para usar la función: os.path.exists(ruta)
 ARCHIVO="estudiantes.txt"
-CLAVE="C"
+CLAVE="admin123"
 
 #Función para cargar el archivo usuarios.txt
 def cargar_usuarios():
